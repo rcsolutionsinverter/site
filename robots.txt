@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rcsolutionsinverter.github.io/site/sitemap.xml
